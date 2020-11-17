@@ -1,9 +1,0 @@
-C:\code\coursera\USPSoftwareTestMOOCProject\JsonHelper\JsonHelper\bin\Debug\netcoreapp3.1\JsonHelper.deps.json
-C:\code\coursera\USPSoftwareTestMOOCProject\JsonHelper\JsonHelper\bin\Debug\netcoreapp3.1\JsonHelper.dll
-C:\code\coursera\USPSoftwareTestMOOCProject\JsonHelper\JsonHelper\obj\Debug\netcoreapp3.1\JsonHelper.csprojAssemblyReference.cache
-C:\code\coursera\USPSoftwareTestMOOCProject\JsonHelper\JsonHelper\obj\Debug\netcoreapp3.1\JsonHelper.AssemblyInfoInputs.cache
-C:\code\coursera\USPSoftwareTestMOOCProject\JsonHelper\JsonHelper\obj\Debug\netcoreapp3.1\JsonHelper.AssemblyInfo.cs
-C:\code\coursera\USPSoftwareTestMOOCProject\JsonHelper\JsonHelper\bin\Debug\netcoreapp3.1\JsonHelper.pdb
-C:\code\coursera\USPSoftwareTestMOOCProject\JsonHelper\JsonHelper\obj\Debug\netcoreapp3.1\JsonHelper.csproj.CoreCompileInputs.cache
-C:\code\coursera\USPSoftwareTestMOOCProject\JsonHelper\JsonHelper\obj\Debug\netcoreapp3.1\JsonHelper.dll
-C:\code\coursera\USPSoftwareTestMOOCProject\JsonHelper\JsonHelper\obj\Debug\netcoreapp3.1\JsonHelper.pdb
