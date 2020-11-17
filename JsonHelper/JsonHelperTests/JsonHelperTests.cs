@@ -34,11 +34,19 @@ namespace Mbarsott.JsonHelper
         }
 
         [Test]
-        public void FindNodesByProperyNameWithNullParamsThrowsArgumentNullException()
+        public void FindNodesByProperyNameWithNullParamsReturnsEmptyCollection()
         {
-            Assert.That(JsonHelper.FindNodesByPropertyAndValue(null, "test", "test").Count() == 0);
-            Assert.That(JsonHelper.FindNodesByPropertyAndValue(JObject.Parse(JSON_STRING), null, "test").Count() == 0);
-            Assert.That(JsonHelper.FindNodesByPropertyAndValue(JObject.Parse(JSON_STRING), string.Empty, "test").Count() == 0);
+            Assert.That(JsonHelper.FindNodesByPropertyAndValue(null,
+                "test",
+                "test").Count() == 0);
+            Assert.That(JsonHelper.FindNodesByPropertyAndValue(
+                JObject.Parse(JSON_STRING),
+                null,
+                "test").Count() == 0);
+            Assert.That(JsonHelper.FindNodesByPropertyAndValue(
+                JObject.Parse(JSON_STRING),
+                string.Empty,
+                "test").Count() == 0);
         }
 
         private const string JSON_STRING = 
